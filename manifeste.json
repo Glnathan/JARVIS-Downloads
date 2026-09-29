@@ -1,8 +1,8 @@
 {
-  "version": "1.32.4",
-  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.32.4/JARVIS-Setup-1.32.4.exe",
-  "sha256": "5fd912506b643a73fbd79549401846e717d02e6604edf6af1ca62326ad6ceedf",
-  "publishedAt": "2026-09-29T09:12:36.530Z",
-  "notes": "Sphère aux couleurs du thème, décors virtuels Premium, widget météo redessiné, contexte conversationnel, interface fluide, chiffrement DPAPI au repos, export de sauvegarde chiffré.",
-  "sig": "CyjlKTYda44Deaj10sMvs5GL1y100LMrBXFRQjryP3npkKQg0ZPmY1AF25xKr4ldsPA26xK-_TQMnJhX2LyTAw"
+  "version": "1.33.7",
+  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.7/JARVIS-Setup-1.33.7.exe",
+  "sha256": "cda0be60439750ee5b8dc1ebf7e03711533b60b0d6af51e74710e37eeb5065e1",
+  "publishedAt": "2026-09-29T22:08:57.228Z",
+  "notes": "OSIRIS intégré : commande ouvre OSIRIS, globe local et fond CARTO corrigé. Widgets et signature vocale déplaçable, bibliothèque de jeux. Protections et 17 batteries de tests validées.",
+  "sig": "v8C2G6i1_Ml7jwOkX-bx3SF_2EDrvd7tnFXcP4P9-FYIwgbIb49kWcvC19VXpKqtbXYrUyvEBAJIQxkICAfbCw"
 }
