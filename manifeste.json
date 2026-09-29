@@ -1,8 +1,8 @@
 {
-  "version": "1.30.0",
-  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.30.0/JARVIS-Setup-1.30.0.exe",
-  "sha256": "bacb971ed272badc1a4ce02b54d3a73d666d2cc7edc6cdb41d6e407d24f0589a",
-  "publishedAt": "2026-09-28T20:34:13.364Z",
-  "notes": "Profil familial personnalisable : date de naissance, situation, enfants et anniversaires, loisirs.",
-  "sig": "hwRrjUfvRhv-dYu9IVx7vCYvvMbndIiFTT9oiS4xcj6jfKdiHYQf0OGAtmbRs3fo0EPj2IW3iR5jIHLH9WFeDw"
+  "version": "1.32.4",
+  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.32.4/JARVIS-Setup-1.32.4.exe",
+  "sha256": "5fd912506b643a73fbd79549401846e717d02e6604edf6af1ca62326ad6ceedf",
+  "publishedAt": "2026-09-29T09:12:36.530Z",
+  "notes": "Sphère aux couleurs du thème, décors virtuels Premium, widget météo redessiné, contexte conversationnel, interface fluide, chiffrement DPAPI au repos, export de sauvegarde chiffré.",
+  "sig": "CyjlKTYda44Deaj10sMvs5GL1y100LMrBXFRQjryP3npkKQg0ZPmY1AF25xKr4ldsPA26xK-_TQMnJhX2LyTAw"
 }
