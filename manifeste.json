@@ -1,8 +1,8 @@
 {
-  "version": "1.33.8",
-  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.8/JARVIS-Setup-1.33.8.exe",
-  "sha256": "c935502fac00a105bbc99de89582012e24fc14049cf965ebbe8d97a5355e1009",
-  "publishedAt": "2026-09-30T04:46:23.529Z",
-  "notes": "Widgets déplaçables et activables. Diagnostic actualisable. Limiteur PIN borné. 17 batteries de tests validées.",
-  "sig": "0WnKb0vFQg5WYF10l_lKiLqbwCDmofjoYmnQsIBTWyrHUxJegy_3kWpDDDBBvq3rLiLHfwiVgnDsQJDuURk4Ag"
+  "version": "1.33.9",
+  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.9/JARVIS-Setup-1.33.9.exe",
+  "sha256": "2bdb7bc81b0d0ed7b0c7b61744c58c9aea641505599b7d703a008822a3ed5d93",
+  "publishedAt": "2026-09-30T05:10:27.655Z",
+  "notes": "Widget RSS, agents IA en chaîne, essai Premium 24 h.",
+  "sig": "uk-6YBev5_20iz4HudD129xVcOHH2zZBdnlvP9-vBrR4Hk5k9lOFIYiRXlX71uyz01xQpqQclTe5L8OnyPGTDw"
 }

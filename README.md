@@ -6,11 +6,11 @@ Téléchargez ici la version Windows officielle de **J.A.R.V.I.S.**, votre assis
 
 ➡️ **[Télécharger la dernière version de JARVIS](https://github.com/Glnathan/JARVIS-Downloads/releases/latest)**
 
-Version actuelle : **1.33.8**
+Version actuelle : **1.33.9**
 
 Empreinte SHA-256 de l’installateur :
 
-`C935502FAC00A105BBC99DE89582012E24FC14049CF965EBBE8D97A5355E1009`
+`2BDB7BC81B0D0ED7B0C7B61744C58C9AEA641505599B7D703A008822A3ED5D93`
 
 ## Sécurité
 
