@@ -1,8 +1,8 @@
 {
-  "version": "1.33.20",
-  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.20/JARVIS-Setup-1.33.20.exe",
-  "sha256": "ba379d8ecf11d6cd6c3a36bbb85b5c71df286f567ce3fd47f848fd1c0f26cb5f",
-  "publishedAt": "2026-09-30T22:45:18.396Z",
-  "notes": "Claude Code local : bouton et commande vocale pour ouvrir Claude Code dans un terminal interactif, dans un espace de travail isolé. Connexion Anthropic à effectuer par l’utilisateur. Tests, compilation et paquet Windows validés.",
-  "sig": "r18tVEG3AOyiErUXuRy-sfKNG33LZIZ9qoRbL3IFNTNlPziGi3xqzpAJVxBvhjFoOY9cD4QP2Hz7wfQz44g6Dw"
+  "version": "1.33.21",
+  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.21/JARVIS-Setup-1.33.21.exe",
+  "sha256": "17da68ab5cfe109e244dea1823e0b9b4570661dafffea1ae1e6fdae10b34bdaa",
+  "publishedAt": "2026-09-30T23:15:09.886Z",
+  "notes": "Poste de commandement : tableau de bord exécutif avec priorités, agenda, courriels, tâches et raccourcis vers les agents IA. Les données affichées viennent des connecteurs JARVIS existants; aucune statistique factice. Tests et compilation Windows validés.",
+  "sig": "j45et06tGL2KIIZAA2ox669gRnYsZfL1Gt3U09clbUZgOIyrheeYov5QhPHG03qmr5QSChidqfn7jiU84_uTCA"
 }
