@@ -1,8 +1,8 @@
 {
-  "version": "1.33.16",
-  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.16/JARVIS-Setup-1.33.16.exe",
-  "sha256": "d3ac5b7bd4da3552ff6d82752fd027e05234f68d01dbb5b4958eb68f44af0260",
-  "publishedAt": "2026-09-30T09:47:31.404Z",
-  "notes": "Interface plus fluide, indicateur de fraîcheur météo et widgets optimisés.",
-  "sig": "ReqW3AoraPgaiF1YdNL_eifans8vUU9DuMWTXXOcSfXL9k95pCVmx6WBAX8ZPOjTpCthW01_mtut6ZAsWeGuAQ"
+  "version": "1.33.17",
+  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.17/JARVIS-Setup-1.33.17.exe",
+  "sha256": "2a65db94fd0c5e598ecec8f57252c142c378c77f96dad1f0aca3479f60243d03",
+  "publishedAt": "2026-09-30T09:53:20.665Z",
+  "notes": "Interface plus fluide, météo avec heure de mise à jour, bouton des agents toujours réactif.",
+  "sig": "zXbSmqslvIMcLyyVv8aqZL63Vao-qSYNSrNJC4YeQa4UgVUmf6ID1bWOOIVKxwpHEv2QGgzYfVBoB7zO77KbAg"
 }
