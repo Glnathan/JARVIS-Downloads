@@ -1,8 +1,8 @@
 {
-  "version": "1.33.7",
-  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.7/JARVIS-Setup-1.33.7.exe",
-  "sha256": "cda0be60439750ee5b8dc1ebf7e03711533b60b0d6af51e74710e37eeb5065e1",
-  "publishedAt": "2026-09-29T22:08:57.228Z",
-  "notes": "OSIRIS intégré : commande ouvre OSIRIS, globe local et fond CARTO corrigé. Widgets et signature vocale déplaçable, bibliothèque de jeux. Protections et 17 batteries de tests validées.",
-  "sig": "v8C2G6i1_Ml7jwOkX-bx3SF_2EDrvd7tnFXcP4P9-FYIwgbIb49kWcvC19VXpKqtbXYrUyvEBAJIQxkICAfbCw"
+  "version": "1.33.8",
+  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.8/JARVIS-Setup-1.33.8.exe",
+  "sha256": "c935502fac00a105bbc99de89582012e24fc14049cf965ebbe8d97a5355e1009",
+  "publishedAt": "2026-09-30T04:46:23.529Z",
+  "notes": "Widgets déplaçables et activables. Diagnostic actualisable. Limiteur PIN borné. 17 batteries de tests validées.",
+  "sig": "0WnKb0vFQg5WYF10l_lKiLqbwCDmofjoYmnQsIBTWyrHUxJegy_3kWpDDDBBvq3rLiLHfwiVgnDsQJDuURk4Ag"
 }
