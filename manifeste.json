@@ -1,8 +1,8 @@
 {
-  "version": "1.33.17",
-  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.17/JARVIS-Setup-1.33.17.exe",
-  "sha256": "2a65db94fd0c5e598ecec8f57252c142c378c77f96dad1f0aca3479f60243d03",
-  "publishedAt": "2026-09-30T09:53:20.665Z",
-  "notes": "Interface plus fluide, météo avec heure de mise à jour, bouton des agents toujours réactif.",
-  "sig": "zXbSmqslvIMcLyyVv8aqZL63Vao-qSYNSrNJC4YeQa4UgVUmf6ID1bWOOIVKxwpHEv2QGgzYfVBoB7zO77KbAg"
+  "version": "1.33.18",
+  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.18/JARVIS-Setup-1.33.18.exe",
+  "sha256": "f77f950c9e9e88a264a3cac9970e98f11fa6256058b109b143ca9ba446fb6315",
+  "publishedAt": "2026-09-30T12:31:00.977Z",
+  "notes": "Journal récent des 12 derniers échanges, horaires et sources sur le tableau de bord, actualisable à la demande. Widgets configurables.",
+  "sig": "vKVai1OYvmW9wORCsKxRw5AK89mWBNO0xWljbE6RlSyQnEdya6-mbJbmJCAWckitESVM5bohKSYhxxaai4BDBA"
 }

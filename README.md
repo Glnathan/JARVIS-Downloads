@@ -6,11 +6,11 @@ Téléchargez ici la version Windows officielle de **J.A.R.V.I.S.**, votre assis
 
 ➡️ **[Télécharger la dernière version de JARVIS](https://github.com/Glnathan/JARVIS-Downloads/releases/latest)**
 
-Version actuelle : **1.33.17**
+Version actuelle : **1.33.18**
 
 Empreinte SHA-256 de l’installateur :
 
-`2BDB7BC81B0D0ED7B0C7B61744C58C9AEA641505599B7D703A008822A3ED5D93`
+`F77F950C9E9E88A264A3CAC9970E98F11FA6256058B109B143CA9BA446FB6315`
 
 ## Sécurité
 
@@ -20,7 +20,3 @@ Empreinte SHA-256 de l’installateur :
 - Windows peut afficher un avertissement SmartScreen tant que l’installateur ne possède pas un certificat de signature de code reconnu.
 
 Ne téléchargez JARVIS qu’à partir de ce dépôt officiel.
-
-
-
-
