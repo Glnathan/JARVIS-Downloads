@@ -1,8 +1,8 @@
 {
-  "version": "1.33.21",
-  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.21/JARVIS-Setup-1.33.21.exe",
-  "sha256": "17da68ab5cfe109e244dea1823e0b9b4570661dafffea1ae1e6fdae10b34bdaa",
-  "publishedAt": "2026-09-30T23:15:09.886Z",
-  "notes": "Poste de commandement : tableau de bord exécutif avec priorités, agenda, courriels, tâches et raccourcis vers les agents IA. Les données affichées viennent des connecteurs JARVIS existants; aucune statistique factice. Tests et compilation Windows validés.",
-  "sig": "j45et06tGL2KIIZAA2ox669gRnYsZfL1Gt3U09clbUZgOIyrheeYov5QhPHG03qmr5QSChidqfn7jiU84_uTCA"
+  "version": "1.33.22",
+  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.22/JARVIS-Setup-1.33.22.exe",
+  "sha256": "809c101de5d7e6a17f1cad6623fbb21dd29a1eaa3e41228132ca87fc31c40fbc",
+  "publishedAt": "2026-09-30T23:21:47.541Z",
+  "notes": "Correction agenda du poste de commandement : les rendez-vous s affichent avec leur titre. Tableau de bord executif, priorites, courriels et agents IA inclus.",
+  "sig": "gGcPkTjz-1pdkxachocWHy60Y9jTL-H9A3bWmUGDtwCpC6K-fvDcH33I1gS9UtWoA9ICvg0WRwXots1xkVenCg"
 }
