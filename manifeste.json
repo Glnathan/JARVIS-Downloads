@@ -1,8 +1,8 @@
 {
-  "version": "1.33.18",
-  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.18/JARVIS-Setup-1.33.18.exe",
-  "sha256": "f77f950c9e9e88a264a3cac9970e98f11fa6256058b109b143ca9ba446fb6315",
-  "publishedAt": "2026-09-30T12:31:00.977Z",
-  "notes": "Journal récent des 12 derniers échanges, horaires et sources sur le tableau de bord, actualisable à la demande. Widgets configurables.",
-  "sig": "vKVai1OYvmW9wORCsKxRw5AK89mWBNO0xWljbE6RlSyQnEdya6-mbJbmJCAWckitESVM5bohKSYhxxaai4BDBA"
+  "version": "1.33.19",
+  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.19/JARVIS-Setup-1.33.19.exe",
+  "sha256": "64e60cd0d1d1fa73c09823f87649b8a0e5fc65dfacc5005a96d3eab807b28950",
+  "publishedAt": "2026-09-30T22:23:00.389Z",
+  "notes": "HUD cinématique : grands panneaux météo et diagnostic système, ouvrables par boutons ou commandes vocales/texte. Tests, installation Windows et vérification du poste validés.",
+  "sig": "k5V_1KuvDh6-C0TDA_2vr_TfJEg7_MXYupINf0FmqxAk2MfdRj6j-0Qc2zdIOVLxEJ3zltTfCr1ytMAOp9yiAg"
 }
