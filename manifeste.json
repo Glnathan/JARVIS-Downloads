@@ -1,8 +1,8 @@
 {
-  "version": "1.33.15",
-  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.15/JARVIS-Setup-1.33.15.exe",
-  "sha256": "631f241a33ca036fb75910be862c034e7190c4d3c16cbf07c424857ce57d08e8",
-  "publishedAt": "2026-09-30T05:54:29.542Z",
-  "notes": "Widget actualités RSS, agents en chaîne, essai Premium 24 h et correctifs.",
-  "sig": "m7OyU0en1QH4AYsYt6PLxx6zyuJcwbkB3YfQJncbVyBYZPDKJ1BVXpUqG2OcOC27Raj-ejQSp0KS7Gt_sMbZAA"
+  "version": "1.33.16",
+  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.16/JARVIS-Setup-1.33.16.exe",
+  "sha256": "d3ac5b7bd4da3552ff6d82752fd027e05234f68d01dbb5b4958eb68f44af0260",
+  "publishedAt": "2026-09-30T09:47:31.404Z",
+  "notes": "Interface plus fluide, indicateur de fraîcheur météo et widgets optimisés.",
+  "sig": "ReqW3AoraPgaiF1YdNL_eifans8vUU9DuMWTXXOcSfXL9k95pCVmx6WBAX8ZPOjTpCthW01_mtut6ZAsWeGuAQ"
 }
