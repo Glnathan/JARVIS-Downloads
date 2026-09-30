@@ -1,8 +1,8 @@
 {
-  "version": "1.33.9",
-  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.9/JARVIS-Setup-1.33.9.exe",
-  "sha256": "2bdb7bc81b0d0ed7b0c7b61744c58c9aea641505599b7d703a008822a3ed5d93",
-  "publishedAt": "2026-09-30T05:10:27.655Z",
-  "notes": "Widget RSS, agents IA en chaîne, essai Premium 24 h.",
-  "sig": "uk-6YBev5_20iz4HudD129xVcOHH2zZBdnlvP9-vBrR4Hk5k9lOFIYiRXlX71uyz01xQpqQclTe5L8OnyPGTDw"
+  "version": "1.33.14",
+  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.14/JARVIS-Setup-1.33.14.exe",
+  "sha256": "232f5a7bf16c9fa3f12f18d2be1bd771c8a228470f358919971912a65d66f585",
+  "publishedAt": "2026-09-30T05:46:42.834Z",
+  "notes": "Widget actualités RSS, agents en chaîne, essai Premium 24 h et améliorations d’interface.",
+  "sig": "1x7BEPUHeogPoFF4PfFSzMQW88nmw7YU8P8r0olEwtBO_bF1mjxHAL6GCntTmbtbcRM9TlrQdNF3MpoHxVg6Aw"
 }
