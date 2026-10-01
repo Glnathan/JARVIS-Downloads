@@ -1,8 +1,8 @@
 {
-  "version": "1.33.22",
-  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.22/JARVIS-Setup-1.33.22.exe",
-  "sha256": "809c101de5d7e6a17f1cad6623fbb21dd29a1eaa3e41228132ca87fc31c40fbc",
-  "publishedAt": "2026-09-30T23:21:47.541Z",
-  "notes": "Correction agenda du poste de commandement : les rendez-vous s affichent avec leur titre. Tableau de bord executif, priorites, courriels et agents IA inclus.",
-  "sig": "gGcPkTjz-1pdkxachocWHy60Y9jTL-H9A3bWmUGDtwCpC6K-fvDcH33I1gS9UtWoA9ICvg0WRwXots1xkVenCg"
+  "version": "1.33.23",
+  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.23/JARVIS-Setup-1.33.23.exe",
+  "sha256": "e7a9c7c63af65332e1a4e263630d29a8eb84d2becb3979d22a16a7ba1a921320",
+  "publishedAt": "2026-10-01T06:22:39.123Z",
+  "notes": "Galaxie locale du coffre Obsidian.",
+  "sig": "KJ4il0rAsyYo8YItFSQUEW3ihlekBELJMwbSHwltud3FszNzD3Hxfkc4HdvQp7X6YgdMXvWjGfak3_Hxx56PCw"
 }
