@@ -1,8 +1,8 @@
 {
-  "version": "1.33.24",
-  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.24/JARVIS-Setup-1.33.24.exe",
-  "sha256": "84aa1083977f0d2d2d506c75e35709812f3c86f87b6ce13de87d71fbbff3f985",
-  "publishedAt": "2026-10-01T10:23:44.641Z",
-  "notes": "Sphère holographique vectorielle vivante : anneaux énergétiques, particules et animations réactives aux états vocaux.",
-  "sig": "Msda_UDUhVETdHvv3SvbQ44AzHXMTiZvZWN5jyS_88re71ojUXEhnHKna7rlzUUOPnrNJjkjj8VUqtpddKcxAg"
+  "version": "1.33.25",
+  "url": "https://github.com/Glnathan/JARVIS-Downloads/releases/download/v1.33.25/JARVIS-Setup-1.33.25.exe",
+  "sha256": "ac7f376225d888fffcea10aee99de119973fe945346a143db83bc1dd10ddbdd9",
+  "publishedAt": "2026-10-02T08:36:12.356Z",
+  "notes": "Fenêtre desktop native WebView2 : lancement sans navigateur Chrome, microphone autorisé dans le shell natif et repli automatique Chrome/Edge.",
+  "sig": "sLSR2sTYi1TagOp4YUQLqXaHQ1IYg5D6wob1Glb-ZO5_veNTH-v9eWZg05fAXhuAB3RwSvfKHKvR-kArQfKEDg"
 }
